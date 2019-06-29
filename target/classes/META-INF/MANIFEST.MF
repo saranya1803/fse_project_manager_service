@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: fsd-task-manager
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: n0215371
+Implementation-Vendor-Id: com.fsd
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/fsd-task-manager
+Created-By: Maven Integration for Eclipse
+
